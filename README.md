@@ -6,7 +6,7 @@ Este repositório contém a página oficial de Política de Privacidade, Assinat
 
 ## 🔗 Acessar política completa
 
-👉 https://rafaelmoeller03-cpu.github.io/politica-mpro-personal/
+ hthttps://rafaelmoeller03-cpu.github.io/politica-mpro-personal/
 
 ---
 
